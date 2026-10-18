@@ -1,0 +1,71 @@
+REAL COMPANY FINANCIAL ANALYSIS
+=============================================
+
+Apple Inc. (AAPL)
+---------------------------------------------
+Profit Margin: 26.92%
+Revenue Growth: 6.43%
+Return on Assets: 31.18%
+Return on Equity: 151.91%
+Debt-to-Equity: 1.34x
+Current Ratio: 0.89x
+Free Cash Flow: $98,767,000,000.00
+
+FINANCIAL INTERPRETATION
+Profit Margin: The company has a high net profit margin.
+Revenue Growth: Revenue is growing at a relatively slow rate.
+Roa: The company has a high return on assets.
+Roe: The company has a high return on equity.
+Debt To Equity: The company has moderate financial leverage.
+Current Ratio: Current liabilities exceed current assets.
+Free Cash Flow: The company generates positive free cash flow.
+
+Microsoft Corporation (MSFT)
+---------------------------------------------
+Profit Margin: 40.31%
+Revenue Growth: 17.79%
+Return on Assets: 17.64%
+Return on Equity: 30.23%
+Debt-to-Equity: 0.13x
+Current Ratio: 1.23x
+Free Cash Flow: $66,987,000,000.00
+
+FINANCIAL INTERPRETATION
+Profit Margin: The company has a high net profit margin.
+Revenue Growth: Revenue is growing at a moderate rate.
+Roa: The company has a high return on assets.
+Roe: The company has a high return on equity.
+Debt To Equity: The company has relatively low financial leverage.
+Current Ratio: Current assets exceed current liabilities.
+Free Cash Flow: The company generates positive free cash flow.
+
+NVIDIA Corporation (NVDA)
+---------------------------------------------
+Profit Margin: 55.60%
+Revenue Growth: 65.47%
+Return on Assets: 58.06%
+Return on Equity: 76.33%
+Debt-to-Equity: 0.07x
+Current Ratio: 3.91x
+Free Cash Flow: $96,676,000,000.00
+
+FINANCIAL INTERPRETATION
+Profit Margin: The company has a high net profit margin.
+Revenue Growth: Revenue is growing rapidly.
+Roa: The company has a high return on assets.
+Roe: The company has a high return on equity.
+Debt To Equity: The company has relatively low financial leverage.
+Current Ratio: Current assets are at least twice current liabilities.
+Free Cash Flow: The company generates positive free cash flow.
+
+COMPANY COMPARISON
+---------------------------------------------
+Highest Profit Margin: NVIDIA Corporation (55.60%)
+Highest Revenue Growth: NVIDIA Corporation (65.47%)
+Highest Return on Assets: NVIDIA Corporation (58.06%)
+Highest Return on Equity: Apple Inc. (151.91%)
+Lowest Debt-to-Equity: NVIDIA Corporation (0.07x)
+Highest Current Ratio: NVIDIA Corporation (3.91x)
+Highest Free Cash Flow: Apple Inc. ($98,767,000,000.00)
+
+Interpretations use illustrative thresholds and are not investment recommendations.

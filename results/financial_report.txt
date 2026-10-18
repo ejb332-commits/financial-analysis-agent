@@ -1,0 +1,52 @@
+FINANCIAL ANALYSIS REPORT
+=============================================
+
+Sample data: fictional companies
+
+Company A
+-----------------------------------
+Revenue: $1,000,000.00
+Profit: $150,000.00
+Profit Margin: 15.00%
+Revenue Growth: 25.00%
+Return on Assets: 7.50%
+Return on Equity: 12.50%
+Debt-to-Equity: 0.42x
+Current Ratio: 2.00x
+Free Cash Flow: $150,000.00
+
+Company B
+-----------------------------------
+Revenue: $2,500,000.00
+Profit: $400,000.00
+Profit Margin: 16.00%
+Revenue Growth: 13.64%
+Return on Assets: 10.00%
+Return on Equity: 16.00%
+Debt-to-Equity: 0.48x
+Current Ratio: 1.69x
+Free Cash Flow: $380,000.00
+
+Company C
+-----------------------------------
+Revenue: $750,000.00
+Profit: $50,000.00
+Profit Margin: 6.67%
+Revenue Growth: -16.67%
+Return on Assets: 5.00%
+Return on Equity: 8.33%
+Debt-to-Equity: 0.58x
+Current Ratio: 1.25x
+Free Cash Flow: $40,000.00
+
+COMPANY COMPARISON
+-----------------------------------
+Highest Profit Margin: Company B (16.00%)
+Highest Revenue Growth: Company A (25.00%)
+Highest Return on Assets: Company B (10.00%)
+Highest Return on Equity: Company B (16.00%)
+Lowest Debt-to-Equity: Company A (0.42x)
+Highest Current Ratio: Company A (2.00x)
+Highest Free Cash Flow: Company B ($380,000.00)
+
+Note: Metric rankings are descriptive, not investment recommendations.
